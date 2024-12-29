@@ -1,10 +1,10 @@
-# Bonjour ! 🥖
+# Добро пожаловать !
 
-My name is Valentin Briand. I am a freelance frontend developer living near Paris, France. 🥐
+Меня зовут Чернецкий Андрей. В данный момент обучаюсь на 4 курсе в колледже. Проживаю в городе Москва. Изучаю бекенд разработку. 🥐
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## 🛠  Technologies and tools
+## 🛠  Технологии и инструменты
 
 <a name="learning-now"></a>
 
@@ -34,13 +34,13 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 
 <a name="learning-next"></a>
 
-## 📖  What I am currently learning / improving on
+## 📖  Что я изучаю в данный момент
 
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
 
-## 👾  What I am interested in learning at some point
+## 👾  Что мне интересно и в дальнейшнем планирую изучать
 
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
 &nbsp;
